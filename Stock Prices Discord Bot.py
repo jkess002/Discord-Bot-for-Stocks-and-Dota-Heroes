@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 import DotabuffCounters as dbc
 
 client = discord.Client()
-token = 'NjExNzM4NzQ5NjIwOTc3NzE0.XVYMtw.TiIvQJ1nUStn2_FtKmOvYFNSlpg'
+token = ''
 
 @client.event
 async def on_ready():
